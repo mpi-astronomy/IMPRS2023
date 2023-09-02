@@ -5,10 +5,8 @@ We need the following:
 
 2. Bash shell: 
 
-2. Git/GitHubL: check if it is already installed:
-> which git
-If not, 
-https://sourceforge.net/projects/git-osx-installer/files/
+2. Git/GitHubL: check if it is already installed: ```which git```
+If not, https://sourceforge.net/projects/git-osx-installer/files/
 
 3. Python: follow instructions but use miniconda instead of conda.
 
