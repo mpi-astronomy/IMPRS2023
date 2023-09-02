@@ -12,4 +12,4 @@ https://sourceforge.net/projects/git-osx-installer/files/
 
 3. Python: follow instructions but use miniconda instead of conda.
 
-4. Download data: ![download data](download_data.ong "Title")
+4. Download data: ![download data](download_data.png "Title")
