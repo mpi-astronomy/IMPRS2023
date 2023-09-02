@@ -1,0 +1,8 @@
+- git config
+- git init
+- tracking changes: status, add, commit, diff
+- git ignore
+- remotes
+- HTPPs auth
+- forks
+- template
