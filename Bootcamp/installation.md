@@ -14,4 +14,6 @@ Also, create GitHub account (if you don't have one) or recover the password if y
 
 4. Python: follow instructions but use miniconda instead of conda.
 
-5. Download data: ![download data](data_download.png "Title")
+5. Download data: https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
+6.
+7. ![download data](data_download.png "Title")
