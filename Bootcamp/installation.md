@@ -1,3 +1,5 @@
+This document is here: https://github.com/mpi-astronomy/IMPRS2023/
+
 All instructions are available here: https://carpentries.github.io/workshop-template/install_instructions
 
 We need the following:
@@ -5,9 +7,11 @@ We need the following:
 
 2. Bash shell: 
 
-2. Git/GitHubL: check if it is already installed: ```which git```
+2. Git/GitHub: check if it is already installed: ```which git```
 If not, https://sourceforge.net/projects/git-osx-installer/files/
 
-3. Python: follow instructions but use miniconda instead of conda.
+Also, create GitHub account (if you don't have one) or recover the password if you need to.
 
-4. Download data: ![download data](data_download.png "Title")
+4. Python: follow instructions but use miniconda instead of conda.
+
+5. Download data: ![download data](data_download.png "Title")
